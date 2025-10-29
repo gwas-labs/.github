@@ -1,2 +1,1 @@
-# .github
-gwas-labs
+# gwas-labs README.md
